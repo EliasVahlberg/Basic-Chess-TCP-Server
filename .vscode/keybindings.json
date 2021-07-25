@@ -1,0 +1,41 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+alt+oem_plus",
+        "command": "-editor.unfoldRecursively",
+        "when": "editorFocus && foldingEnabled"
+    },
+    {
+        "key": "ctrl+alt+oem_plus",
+        "command": "editor.action.fontZoomIn"
+    },
+    {
+        "key": "ctrl+alt+oem_minus",
+        "command": "editor.action.fontZoomOut"
+    },
+    {
+        "key": "ctrl+alt+oem_minus",
+        "command": "-editor.foldRecursively",
+        "when": "editorFocus && foldingEnabled"
+    },
+    {
+        "key": "ctrl+shift+alt+l",
+        "command": "git.commit"
+    },
+    { "key": "ctrl+f1", "command": "workbench.action.terminal.focus"},
+{
+    "key": "ctrl+f1",
+    "command": "workbench.action.focusActiveEditorGroup",
+    "when": "terminalFocus"
+},
+{
+    "key": "ctrl+shift+oem_4",
+    "command": "-editor.fold",
+    "when": "editorTextFocus && foldingEnabled"
+},
+{
+    "key": "ctrl+shift+oem_4",
+    "command": "-notebook.fold",
+    "when": "notebookEditorFocused && !inputFocus && activeEditor == 'workbench.editor.notebook'"
+}
+]

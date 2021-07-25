@@ -1,0 +1,16 @@
+C:\Users\elias\ChessServer\bin\Debug\net5.0\ChessServer.exe
+C:\Users\elias\ChessServer\bin\Debug\net5.0\ChessServer.deps.json
+C:\Users\elias\ChessServer\bin\Debug\net5.0\ChessServer.runtimeconfig.json
+C:\Users\elias\ChessServer\bin\Debug\net5.0\ChessServer.runtimeconfig.dev.json
+C:\Users\elias\ChessServer\bin\Debug\net5.0\ChessServer.dll
+C:\Users\elias\ChessServer\bin\Debug\net5.0\ref\ChessServer.dll
+C:\Users\elias\ChessServer\bin\Debug\net5.0\ChessServer.pdb
+C:\Users\elias\ChessServer\obj\Debug\net5.0\ChessServer.csprojAssemblyReference.cache
+C:\Users\elias\ChessServer\obj\Debug\net5.0\ChessServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\ChessServer\obj\Debug\net5.0\ChessServer.AssemblyInfoInputs.cache
+C:\Users\elias\ChessServer\obj\Debug\net5.0\ChessServer.AssemblyInfo.cs
+C:\Users\elias\ChessServer\obj\Debug\net5.0\ChessServer.csproj.CoreCompileInputs.cache
+C:\Users\elias\ChessServer\obj\Debug\net5.0\ChessServer.dll
+C:\Users\elias\ChessServer\obj\Debug\net5.0\ref\ChessServer.dll
+C:\Users\elias\ChessServer\obj\Debug\net5.0\ChessServer.pdb
+C:\Users\elias\ChessServer\obj\Debug\net5.0\ChessServer.genruntimeconfig.cache
