@@ -7,13 +7,17 @@ namespace ChessServer
     /// <summary>Sent from server to client.</summary>
     public enum ServerPackets
     {
-        welcome = 1
+        welcome = 1,
+        fen = 2,
+        move = 3
     }
 
     /// <summary>Sent from client to server.</summary>
     public enum ClientPackets
     {
-        welcomeReceived = 1
+        welcomeReceived = 1,
+        fenSelect = 2,
+        moveRequest = 3
     }
 
     public class Packet : IDisposable

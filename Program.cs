@@ -21,7 +21,6 @@ namespace ChessServer
             isRunning = true;
             Thread mainThread = new Thread(new ThreadStart(MainThread));
             mainThread.Start();
-            System.Console.WriteLine("Stopping");
         }
         private static void MainThread()
         {
@@ -39,6 +38,7 @@ namespace ChessServer
                     }
                 }
             }
+            System.Console.WriteLine("Stopping");
         }
     }
 }
